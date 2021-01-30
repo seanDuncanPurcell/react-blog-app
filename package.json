@@ -1,6 +1,8 @@
 {
   "name": "react-blog",
   "version": "0.1.0",
+  "description": "this is a one page blog app that is intended to work with in a web-portfolio app Im working on.",
+  "keywords": ["react", "text"],
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
